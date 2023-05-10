@@ -15,9 +15,9 @@ setuptools.setup(
     description="boost inference speed of T5 models by 5x & reduce the model size by 3x using fastT5.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Ki6an/fastT5",
+    url="https://github.com/kevinlu1248/fastT5",
     project_urls={
-        "Repo": "https://github.com/Ki6an/fastT5",
+        "Repo": "https://github.com/kevinlu1248/fastT5",
         "Bug Tracker": "https://github.com/Ki6an/fastT5/issues",
     },
     keywords=[
